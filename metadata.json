@@ -1,0 +1,6 @@
+{
+  "name": "SearchCraft - Search & Graph Traversal Algorithm Visualizer",
+  "description": "Interactive learning visualizer for search algorithms including A*, Greedy Best-First, Dijkstra/UCS, BFS, DFS, and Bidirectional Search with custom nodes, path costs, step-by-step queue inspection, and algorithm comparison.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
